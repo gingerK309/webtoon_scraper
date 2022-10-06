@@ -29,5 +29,5 @@
 <br>
 
 ## 💻 프로그램 실행 결과
-<img>![scraper](https://user-images.githubusercontent.com/49302989/194305775-011a5441-7fc1-4188-b760-6e30e1b9909d.gif)
+![scraper](https://user-images.githubusercontent.com/49302989/194312418-9d305c2e-4776-42d9-9d25-ffc50dc3fefb.gif)
 
