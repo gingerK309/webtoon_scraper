@@ -6,7 +6,7 @@
 
 <br>
 
-## 🔧사용 언어 및 개발 툴
+## 🔧기술 스택
 <img src="https://img.shields.io/badge/Python3-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
 
 <br>
